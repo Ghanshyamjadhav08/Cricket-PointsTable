@@ -65,9 +65,9 @@ export const PointsTable = () => {
     {
       Team: "England",
       Matches: 9,
-      Won: 3,
-      Lost: 6,
-      PTS: 6,
+      Won: 2,
+      Lost: 7,
+      PTS: 4,
       NRR: "-0.572",
       Flag: "eng.png",
       Recent: ["W", "W", "L", "L", "L"],
